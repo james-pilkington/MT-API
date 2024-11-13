@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MT-API/static/css/main.e6c13ad2.css",
+    "main.js": "/MT-API/static/js/main.544a6b07.js",
+    "static/js/453.1bbeb20b.chunk.js": "/MT-API/static/js/453.1bbeb20b.chunk.js",
+    "index.html": "/MT-API/index.html",
+    "main.e6c13ad2.css.map": "/MT-API/static/css/main.e6c13ad2.css.map",
+    "main.544a6b07.js.map": "/MT-API/static/js/main.544a6b07.js.map",
+    "453.1bbeb20b.chunk.js.map": "/MT-API/static/js/453.1bbeb20b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.544a6b07.js"
+  ]
+}
